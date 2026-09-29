@@ -1,0 +1,8 @@
+{
+  "name": "Iris Flower Classification",
+  "description": "Professional machine-learning web application for Iris flower species classification and dataset analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
